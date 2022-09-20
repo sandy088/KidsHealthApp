@@ -1,0 +1,98 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "30 days fit",
+            "desc": "30 Days Obese to fit challenge",
+            "nextPager": "/homePage",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOiJ-wZHOAdfTHd18YvpMgRDTtCJMOUr8NRJ1O-0r31dozvX1X9P6UYiKVyV_LsjzhMy6OJx67zyvZ1vHrj4RlhJO_Vf8Onihd4zluASFN085jNqtXSd0JlCpept9bfbiEMCMyOb9y3ssSfvaq_EunfrAodyJVHcKtSW4GuCYUphp5bIo9wiXL7Kf8Mg/s320/White%20with%20Mint%20Tooth%20Icon%20Dental%20LogoWhite%20with%20Mint%20Tooth%20Icon%20Dental%20Logo.png"
+        },
+        {
+            "id": 2,
+            "name": "Healthy Diet",
+            "desc": "Best healthy diet for kids",
+            "nextPager": "/healthyDietPage",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIT-DUwDcYjs76JoZHfqZ8lxFbEMu2c35mECBMFiaGf6C21I_CYz7kFStnp_CaJnKk1bWjtCJGBcJ2zTLl1jwy5_gMEte3HrTirHpQNs6Bjlh2CKE586TvUUZcmg61Q2aGays7T5RimW7bDqv4E4aFT0DRDSXJ7hFjHrxaCvDzy6smqy1IObtKZ5wsFA/s320/White%20with%20Mint%20Tooth%20Icon%20Dental%20LogoWhite%20with%20Mint%20Tooth%20Icon%20Dental%20Logo%20(2).png"
+        },
+        {
+            "id": 3,
+            "name": "Yoga for Kids",
+            "desc": "Daily yoga training for kids",
+            "nextPager": "/Yoga",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-GTrlEzlVJomoF0HXcS-79RaMwe254PsSUx3rLXO4V5vpDGJ5f2kTCglhJn-bawKnbCx3vehHy7lEsKFUHTq2ofzpcR91GYFrkoYj5MbpXZ65U6_-xKyY03BGj4YJyv71IBpB5vYmbwv6RSKX7SeNJssxGqkKjsyPl7yN5Wp1zeryKopJpN8qNgJjIQ/s320/White%20with%20Mint%20Tooth%20Icon%20Dental%20LogoWhite%20with%20Mint%20Tooth%20Icon%20Dental%20Logo%20(1).png"
+        },
+        {
+            "id": 4,
+            "name": "Games & Tasks",
+            "desc": "Daily fun and outdoor game tasks",
+            "nextPager": "/homePage",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNfqfGNmYG5CbZkjas6ucycAGIQp1UxsgLSXGpxMQPRWBsxa5X7mxXJyLYkD-D6vP-VthM199p-bZEikaFgibtyDIVsOVdQJIM-aNQ9FTveD86WBu4mgf6q0R6yKLa4xzRAYFndwUItci77Actzly7N6xy3OxXv8qgtqH9oda7PUMBrMPm0sR-7Ae4yQ/s320/White%20with%20Mint%20Tooth%20Icon%20Dental%20LogoWhite%20with%20Mint%20Tooth%20Icon%20Dental%20Logo%20(3).png"
+        }
+        
+    ],
+
+    "healthyDiet": [
+        {
+            "id": 44,
+            "name": "Apple Honey Pancake",
+            "desc": "Tasty + Healthy",
+            "nextPager": "/healthyDietPage",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaQG2hzOZoYM3tsxucHvK_tR4z7D8oyeGiuHu-UJqCLWRgH1zU0qrEAa-j58qyaYHJVulkqUlrUmvsKwf06-FAa__RVMHNCQ5UBoNRBaA_0iEOJlR6xVw_3DrMSsRX8CaAtg7sRxSn5H9q_tCj5ar4tyfbrZ5rrko7vzuNXn0wSrXliMfMe37J-i2uow/s320/Untitled%20design%20(8).png"
+        },
+        {
+            "id": 2,
+            "name": "Healthy Vegan Breakfast",
+            "desc": "Best healthy diet for kids",
+            "nextPager": "/healthyDietPage",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLg2PR7XGYoQVI6QyY_tnZzuD9Db4G4dWi6gRBKVR_1yEZ0Ra6xoV6y5HMsBDBWNs3ut2l5gKVBAOJtJVx0kqiQUfPCdW-xgEl1KQA5ZTax9yOSnnr5ma17hI4NlhNt7r2CCZI_R0x_iY_ofEF617mVVYhsowJL25IXoFL4sml56JIlQmmcxhs_MBvTQ/s1600/images.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Oats Moong Daal Tikki",
+            "desc": "Tasty + Healthy",
+            "nextPager": "/healthyDietPage",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMqz_fxFXR0okwiOcFJrN-PcXaDYdApu5iOMTXfUxGtQIfMJEm98ZcZG91f5OZThicYfQGtg2ljaS9JSnctiee1D4zuIgbTIqrmnvnxKX_1cVdtUXtnJy7kHrv1y64lsIcC921tuxENc86zYx85J1v7UZQgarNVZ-OBFNySp00JaPERFdMkCaeF0VO1g/s1600/index.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Moong Daal Palak Cheela",
+            "desc": "Tasty + Healthy",
+            "nextPager": "/healthyDietPage",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihoO-YTHqmo8dmkos4KFwDm6cyXcn2dfk2YSZYhItvaD9ZG15B_M8sF0Q9Auq8bC0DuqtKcLmXqe6qA0j_zl2Ve1KvQ4eLU70tm5yN-PX_p0-4LsrTzsVzJt9PzW0_vqKUJp3mpykyR423UvwtkvFEHqKJ-EkYNWbtujs1op3FC74lBf1e0abR4Nzhqw/s320/Moong_Dal_Palak_Cheela_400.jpg"
+        }
+        
+    ],
+
+    "yoga": [
+        {
+            "id": 1,
+            "name": "Tree Pose",
+            "desc": "",
+            "nextPager": "/healthyDietPage",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiEqHydYHZw2eh_vwznw53nNOzBBRXKLi-9-OQMM0ldrxpWZIKLREpK-gxzj3t3L4cQ0Q6rmDHS_CfBQF74bhjbPdB51FBEP89fpdovD5ugy0ViKpOIK3u4bP5rX9OxJRmy9nXjutQWX3bKGpfoG4AODyZ32sPh_leC3eub4ak6ShAS51Me0YdJFczQg/s320/Untitled%20design%20(5).png"
+        },
+        {
+            "id": 2,
+            "name": "Warrior",
+            "desc": "",
+            "nextPager": "/healthyDietPage",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvoE9C7VU49elMvMpvo51slqQ3cD-WJ1-aaJLWmnc8N-Wk7L6lLdTKP_1wG6NPbJiSpRPUQN917OaR2VQN_kq39nL4OelqNVoRNI8O5yEDBl4kJo6I7z1j6ESBvPNeT5exfY0fwTUX01qI-oC-dJyJF_QtAtnXZPSPpiOHqQYPPiVue5QAjqRMq_4Fnw/s320/Untitled%20design%20(4).png"
+        },
+        {
+            "id": 3,
+            "name": "Baby",
+            "desc": "",
+            "nextPager": "/healthyDietPage",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN-fHp5LUSaEUH4dQQV9EJUtqubNkvHy_xd_VsD0CfLyAgRaYxfhgRhYwU442cY50vTnNm5yyH_pV7DUOe_M9HLm-7uFrANHPs9UojIRns74P_3DL1NnjbNkKytsAM3P8zOqhPO6FBKDSTCaMpgZ4jRikZxgRifD_rsn9CpqcHsE8mJZaDpS6zgFQqgg/s320/Untitled%20design%20(6).png"
+        },
+        {
+            "id": 4,
+            "name": "Leg Up",
+            "desc": "",
+            "nextPager": "/healthyDietPage",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy0ATU1zC7GDcjx2X9O4ximCfaJPRxzgujQwUsO_CgJqL2bWcykGyJ_7sj8OS7q12YJ4cxOjg3PM6clBLQovpdZrLV_DpIOB5O0UsgDUL02VK-gx9UAKcAJXulG3plHbtqLNfiN59WFziP4oTrYJYwqwk1FQkULdJkPzgD5HK8KOTxI7ptEON7u7Un-Q/s320/Untitled%20design%20(7).png"
+        }
+        
+    ]
+
+}
