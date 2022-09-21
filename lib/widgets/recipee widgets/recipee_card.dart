@@ -1,10 +1,13 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_catalog/widgets/homepage_widgets/catalog_list.dart';
+import 'package:flutter_catalog/widgets/launchUrl.dart';
 
 class RecipeCard extends StatelessWidget {
   final String title;
   final String rating;
   final String cookTime;
   final String thumbnailUrl;
+
   RecipeCard({
     required this.title,
     this.cookTime = "5",
@@ -15,7 +18,8 @@ class RecipeCard extends StatelessWidget {
   Widget build(BuildContext context) {
     return InkWell(
       onTap: () {
-        print("working");
+        launchURL(
+            "https://hebbarskitchen.com/spiced-fruit-chaat-masala-recipe/");
       },
       child: Container(
         margin: EdgeInsets.symmetric(horizontal: 6, vertical: 10),

@@ -6,4 +6,7 @@ class myRoutes {
   static String cart_page = "/cart";
   static String healthy_diet = "/healthyDietPage";
   static String Yoga = "/Yoga";
+  static String fitChallenge = "/fitChallenge";
+  static String bmiCalc = "/bmiCalc";
+  static String commingSoon = "/commingSoon";
 }

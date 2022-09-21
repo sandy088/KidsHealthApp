@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:flutter_catalog/pages/30Days/fit_challange_page.dart';
+import 'package:flutter_catalog/pages/BMI_screen/bmi_screen.dart';
+
 import 'package:flutter_catalog/pages/cart_page.dart';
+import 'package:flutter_catalog/pages/comming_soon.dart';
 import 'package:flutter_catalog/pages/healthy_diet_page.dart';
 import 'package:flutter_catalog/pages/home_page.dart';
 import 'package:flutter_catalog/pages/login_page.dart';
@@ -28,7 +32,7 @@ class MyApp extends StatelessWidget {
       theme: themes.lightTheme(context),
       darkTheme: themes.darkTheme(context),
       debugShowCheckedModeBanner: false,
-      initialRoute: myRoutes.homeRoute,
+      initialRoute: myRoutes.Loginpage,
       routes: {
         myRoutes.loginRoute: (context) => Homepage(),
         myRoutes.homeRoute: (context) => Homepage(),
@@ -36,6 +40,9 @@ class MyApp extends StatelessWidget {
         myRoutes.cart_page: (context) => cartPage(),
         myRoutes.healthy_diet: (context) => HealthyDietPage(),
         myRoutes.Yoga: (context) => Yoga(),
+        myRoutes.fitChallenge: (context) => fitChallenge(),
+        myRoutes.bmiCalc: (context) => BMI_Screen(),
+        myRoutes.commingSoon: (context) => CommingSoon(),
       },
     );
   }

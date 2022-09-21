@@ -4,7 +4,7 @@
             "id": 1,
             "name": "30 days fit",
             "desc": "30 Days Obese to fit challenge",
-            "nextPager": "/homePage",
+            "nextPager": "/fitChallenge",
             "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOiJ-wZHOAdfTHd18YvpMgRDTtCJMOUr8NRJ1O-0r31dozvX1X9P6UYiKVyV_LsjzhMy6OJx67zyvZ1vHrj4RlhJO_Vf8Onihd4zluASFN085jNqtXSd0JlCpept9bfbiEMCMyOb9y3ssSfvaq_EunfrAodyJVHcKtSW4GuCYUphp5bIo9wiXL7Kf8Mg/s320/White%20with%20Mint%20Tooth%20Icon%20Dental%20LogoWhite%20with%20Mint%20Tooth%20Icon%20Dental%20Logo.png"
         },
         {
@@ -17,33 +17,29 @@
         {
             "id": 3,
             "name": "Yoga for Kids",
-            "desc": "Daily yoga training for kids",
+            "desc": "A fit, healthy body — that is the best fashion statement",
             "nextPager": "/Yoga",
             "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-GTrlEzlVJomoF0HXcS-79RaMwe254PsSUx3rLXO4V5vpDGJ5f2kTCglhJn-bawKnbCx3vehHy7lEsKFUHTq2ofzpcR91GYFrkoYj5MbpXZ65U6_-xKyY03BGj4YJyv71IBpB5vYmbwv6RSKX7SeNJssxGqkKjsyPl7yN5Wp1zeryKopJpN8qNgJjIQ/s320/White%20with%20Mint%20Tooth%20Icon%20Dental%20LogoWhite%20with%20Mint%20Tooth%20Icon%20Dental%20Logo%20(1).png"
-        },
-        {
-            "id": 4,
-            "name": "Games & Tasks",
-            "desc": "Daily fun and outdoor game tasks",
-            "nextPager": "/homePage",
-            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNfqfGNmYG5CbZkjas6ucycAGIQp1UxsgLSXGpxMQPRWBsxa5X7mxXJyLYkD-D6vP-VthM199p-bZEikaFgibtyDIVsOVdQJIM-aNQ9FTveD86WBu4mgf6q0R6yKLa4xzRAYFndwUItci77Actzly7N6xy3OxXv8qgtqH9oda7PUMBrMPm0sR-7Ae4yQ/s320/White%20with%20Mint%20Tooth%20Icon%20Dental%20LogoWhite%20with%20Mint%20Tooth%20Icon%20Dental%20Logo%20(3).png"
         }
+        
         
     ],
 
     "healthyDiet": [
         {
             "id": 44,
-            "name": "Apple Honey Pancake",
+            "name": "Healthy Fruit Chaat",
             "desc": "Tasty + Healthy",
             "nextPager": "/healthyDietPage",
-            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaQG2hzOZoYM3tsxucHvK_tR4z7D8oyeGiuHu-UJqCLWRgH1zU0qrEAa-j58qyaYHJVulkqUlrUmvsKwf06-FAa__RVMHNCQ5UBoNRBaA_0iEOJlR6xVw_3DrMSsRX8CaAtg7sRxSn5H9q_tCj5ar4tyfbrZ5rrko7vzuNXn0wSrXliMfMe37J-i2uow/s320/Untitled%20design%20(8).png"
+            "url": "https://hebbarskitchen.com/spiced-fruit-chaat-masala-recipe/",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJKjKHrlHvoe8_p_zk8INKDyIc0I-wtAZpHgYcHdRYURrZywmzdF50vGSAMjXfe3Et6MxxeN-Q2MK8xfv4AoJwL0tl3vJljJVmYCkNVMo7rWhmwRfcxoGLXip1TobliY4QTvbrlnnublMWPsJA0Obolmdd1fdHeESFThj1ifbodemdPO1PtSke8p9y3g/s700/Marinated-Skewers.jpg.webp"
         },
         {
             "id": 2,
             "name": "Healthy Vegan Breakfast",
             "desc": "Best healthy diet for kids",
             "nextPager": "/healthyDietPage",
+            "url": "https://hebbarskitchen.com/spiced-fruit-chaat-masala-recipe/",
             "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLg2PR7XGYoQVI6QyY_tnZzuD9Db4G4dWi6gRBKVR_1yEZ0Ra6xoV6y5HMsBDBWNs3ut2l5gKVBAOJtJVx0kqiQUfPCdW-xgEl1KQA5ZTax9yOSnnr5ma17hI4NlhNt7r2CCZI_R0x_iY_ofEF617mVVYhsowJL25IXoFL4sml56JIlQmmcxhs_MBvTQ/s1600/images.jpg"
         },
         {
@@ -51,6 +47,7 @@
             "name": "Oats Moong Daal Tikki",
             "desc": "Tasty + Healthy",
             "nextPager": "/healthyDietPage",
+            "url": "https://hebbarskitchen.com/spiced-fruit-chaat-masala-recipe/",
             "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMqz_fxFXR0okwiOcFJrN-PcXaDYdApu5iOMTXfUxGtQIfMJEm98ZcZG91f5OZThicYfQGtg2ljaS9JSnctiee1D4zuIgbTIqrmnvnxKX_1cVdtUXtnJy7kHrv1y64lsIcC921tuxENc86zYx85J1v7UZQgarNVZ-OBFNySp00JaPERFdMkCaeF0VO1g/s1600/index.jpg"
         },
         {
@@ -58,7 +55,34 @@
             "name": "Moong Daal Palak Cheela",
             "desc": "Tasty + Healthy",
             "nextPager": "/healthyDietPage",
+            "url": "https://hebbarskitchen.com/spiced-fruit-chaat-masala-recipe/",
             "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihoO-YTHqmo8dmkos4KFwDm6cyXcn2dfk2YSZYhItvaD9ZG15B_M8sF0Q9Auq8bC0DuqtKcLmXqe6qA0j_zl2Ve1KvQ4eLU70tm5yN-PX_p0-4LsrTzsVzJt9PzW0_vqKUJp3mpykyR423UvwtkvFEHqKJ-EkYNWbtujs1op3FC74lBf1e0abR4Nzhqw/s320/Moong_Dal_Palak_Cheela_400.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Healthy Straberry+ Milk",
+            "desc": "Tasty + Healthy",
+            "nextPager": "/healthyDietPage",
+            "url": "https://hebbarskitchen.com/spiced-fruit-chaat-masala-recipe/",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjK5bpVrDM34PQ_RbqJk4OirE4v0uC6ojwGXP7G4ugaXgi4mMBOocwjkkEeL099ghJ3SwLtT8X016gGQsjXBQsWVZXS9Oc1KKbNW_Xzv1Bix0B6sv6zNSUFWV8Wh6HawA_e-BQPEYmD9kyQzIlDdBk_eltz0dgL5w5kW_uIZSPjl2QdIEAMtVWI9Si7A/s320/10-Quick-And-Easy-Raw-Food-Breakfast-Ideas-1.jpg.webp"
+        }
+        ,
+        {
+            "id": 6,
+            "name": "Healthy Straberry+ Milk",
+            "desc": "Tasty + Healthy",
+            "nextPager": "/healthyDietPage",
+            "url": "https://hebbarskitchen.com/spiced-fruit-chaat-masala-recipe/",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpHbb7E0ns4WgACvUJIy_HboAOZgC2DXt_E0i__Xd6w2Ghp_BVfeQkbWIr4w5Q5adNRkHaU8f7Akf65mk8lCquUE9LAJ0LSW00nYO72g3r5_sANcurUi20kHcfDWE7RLd4STQEpBoHhcX88Km-gicgQR980L5Ot55qgifUO5g5KMHXKFS37pttH8APQQ/s320/healthy-snacks-for-kids-627x354.webp"
+        }
+        ,
+        {
+            "id": 7,
+            "name": "Chippati+ Vegetables",
+            "desc": "Tasty + Healthy",
+            "nextPager": "/healthyDietPage",
+            "url": "https://hebbarskitchen.com/spiced-fruit-chaat-masala-recipe/",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil84fqo3I5GYZuANGackClXLMZVEFPC4tOgoBKC7mMTcEX3hosdapu5xLLjTpgTcLS1HMM5xAhc-q03LmFpYSJaVEUy-yaY1o8f-xxPFu6VqDQvEI5octZLLpMCZJn-J2t5Llh7KAkkFpQt6-rC8Ki-l63MPprPgWm4fFVLjZIc6sXdW1HuCeRf-XKSQ/s320/veg-roll-frankie-500x375.jpg"
         }
         
     ],
@@ -69,6 +93,7 @@
             "name": "Tree Pose",
             "desc": "",
             "nextPager": "/healthyDietPage",
+            
             "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiEqHydYHZw2eh_vwznw53nNOzBBRXKLi-9-OQMM0ldrxpWZIKLREpK-gxzj3t3L4cQ0Q6rmDHS_CfBQF74bhjbPdB51FBEP89fpdovD5ugy0ViKpOIK3u4bP5rX9OxJRmy9nXjutQWX3bKGpfoG4AODyZ32sPh_leC3eub4ak6ShAS51Me0YdJFczQg/s320/Untitled%20design%20(5).png"
         },
         {

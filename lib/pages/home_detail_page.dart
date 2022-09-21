@@ -70,7 +70,12 @@ class HomeDetailPage extends StatelessWidget {
                         .bold
                         .xl4
                         .make(),
-                    catalog.desc.text.textStyle(context.captionStyle).xl.make(),
+                    Padding(
+                        padding: EdgeInsets.only(left: 26),
+                        child: catalog.desc.text
+                            .textStyle(context.captionStyle)
+                            .xl
+                            .make()),
                     "Duo ipsum ipsum sit aliquyam dolores dolore est dolor. Invidunt sed et dolor amet sit eirmod vero no, et ea takimata sed dolor sed stet lorem kasd. Ipsum sed duo lorem invidunt. Gubergren justo sit rebum rebum sadipscing invidunt. Magna no invidunt stet voluptua dolore gubergren labore. Dolores ut et."
                         .text
                         .textStyle(context.captionStyle)

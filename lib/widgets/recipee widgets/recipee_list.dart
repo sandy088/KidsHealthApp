@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_catalog/models/recipee.dart';
 import 'package:flutter_catalog/pages/home_detail_page.dart';
+import 'package:flutter_catalog/widgets/launchUrl.dart';
 import 'package:flutter_catalog/widgets/recipee%20widgets/recipee_card.dart';
 import 'package:flutter_catalog/widgets/recipee%20widgets/recipee_image.dart';
 import 'package:velocity_x/velocity_x.dart';
@@ -21,14 +22,10 @@ class RecipeeList extends StatelessWidget {
           final catalog = RecipeeModel.items[index];
           // ignore: missing_required_param
           return InkWell(
-              // onTap: () => Navigator.push(
-              //       context,
-              //       MaterialPageRoute(
-              //         builder: (context) => HomeDetailPage(
-              //           catalog: catalog,
-              //         ),
-              //       ),
-              //     ),
+              onTap: () {
+                launchURL(
+                    "https://hebbarskitchen.com/spiced-fruit-chaat-masala-recipe/");
+              },
               child: RecipeeItem(catalog: catalog));
         });
   }
@@ -41,6 +38,9 @@ class RecipeeItem extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return RecipeCard(title: catalog.name, thumbnailUrl: catalog.image);
+    return RecipeCard(
+      title: catalog.name,
+      thumbnailUrl: catalog.image,
+    );
   }
 }

@@ -7,8 +7,8 @@ class CatalogHeader extends StatelessWidget {
   final String subHeadertxt;
   const CatalogHeader({
     Key? key,
-    this.headertxt = "Kids Tasks",
-    this.subHeadertxt = "Let's Perform Some Tasks",
+    this.headertxt = "Kids Fitness🏃",
+    this.subHeadertxt = "Physical fitness is the first requisite of happiness",
   }) : super(key: key);
 
   @override
