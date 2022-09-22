@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Sandeep Singh\\Documents\\GitHub\\flutter_catalog\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\values-bn\\values-bn.xml",
+            "outputFile": "C:\\Users\\Sandeep Singh\\Documents\\GitHub\\KidsHealth\\build\\path_provider_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Sandeep Singh\\.gradle\\caches\\transforms-2\\files-2.1\\122df2e57d294d1a53db26bbc3b813c1\\core-1.6.0\\res\\values-bn\\values-bn.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Sandeep Singh\\Documents\\GitHub\\flutter_catalog\\build\\path_provider_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
+            "outputFile": "C:\\Users\\Sandeep Singh\\Documents\\GitHub\\KidsHealth\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\values-bn\\values-bn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Sandeep Singh\\.gradle\\caches\\transforms-2\\files-2.1\\122df2e57d294d1a53db26bbc3b813c1\\core-1.6.0\\res\\values-bn\\values-bn.xml",
